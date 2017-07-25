@@ -2,6 +2,15 @@
 Intellij Plugin to generate Pojo class from json
 
 ![Output sample](https://github.com/jineshfrancs/AwesomePojoGenerator/blob/master/screen/tutorial.gif) 
+<h3><b>Features</b></h3>
+1.No length limit for json
+
+2.Easy to use with Retrofit 
+
+3.Option to generate getters and Setters
+
+4.Option to generate constructor
+
 
 <h3><b>How to Install</b></h3>
 
