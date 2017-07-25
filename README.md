@@ -1,5 +1,5 @@
 # AwesomePojoGenerator
-<a href="https://plugins.jetbrains.com/plugin/9856-awesome-pojo-generator/update/37112.">Intellij Plugin </a> to generate Pojo class from json
+<a href="https://plugins.jetbrains.com/plugin/9856-awesome-pojo-generator/update/37112">Intellij Plugin </a> to generate Pojo class from json
 
 ![Output sample](https://github.com/jineshfrancs/AwesomePojoGenerator/blob/master/screen/tutorial.gif) 
 <h3><b>Features</b></h3>
